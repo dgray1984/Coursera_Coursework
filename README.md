@@ -1,2 +1,2 @@
-# Coursera_Coursework
+# datasciencecoursera-repo
 Coursera coursework
